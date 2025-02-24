@@ -9,7 +9,9 @@ Contract releases funds once predefined conditions are met.
 # Main Functions:
 
 create_escrow(): Locks funds from the buyer in escrow.
+
 approve_escrow(): Buyer must approve the transaction.
+
 release_funds(): Transfers funds to the seller once conditions are met.
 
 
